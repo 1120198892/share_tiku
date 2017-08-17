@@ -13,5 +13,7 @@
 #import "ThemeManager.h"
 #import "ThemeLabel.h"
 #import "UIViewController+EventGather.h"
+#import "NSArray+BMWArray.h"
+
 
 #endif /* UIKitMacro_h */
